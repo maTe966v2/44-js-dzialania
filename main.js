@@ -11,3 +11,6 @@ function numberAction(a, b) {
         console.log("Wynik dodawania wynosi " + multiply);
     }
 }
+
+numberAction(2, 5);
+numberAction(20, 5);
